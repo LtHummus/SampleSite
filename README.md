@@ -8,6 +8,8 @@ I was testing my reverse proxy configuration with Traefik, so this is designed t
 
 `docker run --rm -it -p 8000:8000 lthummus/samplesite:latest`
 
+(The image is available on Docker Hub at https://hub.docker.com/r/lthummus/samplesite)
+
 The site will be available on port `8000`. You can also add it to a `docker-compose.yaml` file:
 
 ```yaml
