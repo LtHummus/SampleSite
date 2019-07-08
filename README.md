@@ -23,6 +23,5 @@ services:
 
 ## Credits
 
-* Images from [Pexels](https://www.pexels.com/) and taken by Anton Atanasov and Lucas Pezeta
 * CSS from Bootstrap
 * JQuery is in here too
